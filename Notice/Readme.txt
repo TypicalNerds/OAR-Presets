@@ -1,0 +1,3 @@
+These Notices are Intended for when the formatting of presets is changed or the naming scheme has changed.
+
+For example: after v0.0.2, the way presets were gathered was changed to grab preset lists from a json file, so that multiple regions & countries could be added down the road, but this change would have broken compatibility for users on the initial build and on v0.0.2, to prevent issues, these lists were changed to have a station listing at the top which was just an MP3 file that it loads from here, this ensures users are aware they should update to avoid issues.
