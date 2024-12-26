@@ -17,7 +17,6 @@
 {"name":"Hits Radio","link":"http://edge-bauerall-01-gos2.sharp-stream.com/hits.mp3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Hits-Radio/Hits-Radio.png"},
 {"name":"Hits Radio Chilled","link":"http://edge-bauerall-01-gos2.sharp-stream.com/magicchilled.mp3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Hits-Radio/Hits-Chilled.png"},
 {"name":"Hits Radio Pride","link":"http://edge-bauerall-01-gos2.sharp-stream.com/hitsradiopride.mp3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Hits-Radio/Hits-Pride.png"},
-{"name":"Magic Radio","link":"http://edge-bauerall-03-gos2.sharp-stream.com/magicnational.mp3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Magic-Radio.png"},
 {"name":"Smooth Radio","link":"https://icecast.thisisdax.com/SmoothUKMP3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Smooth-Radio/Smooth-Radio.png"},
 {"name":"Smooth 70s","link":"https://icecast.thisisdax.com/Smooth70sMP3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Smooth-Radio/Smooth-70s.png"},
 {"name":"Smooth 80s","link":"https://icecast.thisisdax.com/Smooth80sMP3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Smooth-Radio/Smooth-80s.png"},
@@ -25,4 +24,5 @@
 {"name":"Smooth Country","link":"https://icecast.thisisdax.com/SmoothCountryMP3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Smooth-Radio/Smooth-Country.png"},
 {"name":"Smooth Relax","link":"https://icecast.thisisdax.com/SmoothRelaxMP3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Smooth-Radio/Smooth-Relax.png"},
 {"name":"Smooth Soul","link":"https://icecast.thisisdax.com/SmoothSoulMP3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Smooth-Radio/Smooth-Soul.png"},
-{"name":"Virgin Radio","link":"http://radio.virginradio.co.uk/stream","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Virgin-Radio/Virgin-Radio.png"}]
+{"name":"Virgin Radio","link":"http://radio.virginradio.co.uk/stream","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Virgin-Radio/Virgin-Radio.png"}
+]
