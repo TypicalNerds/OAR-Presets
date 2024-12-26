@@ -3,5 +3,10 @@
     "name": "UK Stations",
     "description": "Popular radio stations in the UK",
     "url": "https://raw.githubusercontent.com/TypicalNerds/OAR-Presets/refs/heads/main/uk.json"
+  },
+  {
+    "name": "Dev Stations",
+    "description": "Testing Lists used to avoid breaking standard defaults for normal users",
+    "url": "https://raw.githubusercontent.com/TypicalNerds/OAR-Presets/refs/heads/main/uk-dev.json"
   }
 ]
