@@ -1,12 +1,4 @@
-[{"name":"Absolute Radio","link":"http://edge-bauerall-01-gos2.sharp-stream.com/absoluteradio.mp3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Absolute-Radio/AbsoluteRadio.png"},
-{"name":"Absolute Radio 60s","link":"http://edge-bauerall-01-gos2.sharp-stream.com/absolute60s.mp3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Absolute-Radio/Absolute-60s.png"},
-{"name":"Absolute Radio 70s","link":"http://edge-bauerall-01-gos2.sharp-stream.com/absolute70s.mp3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Absolute-Radio/Absolute-70s.png"},
-{"name":"Absolute 80s","link":"http://edge-bauerall-01-gos2.sharp-stream.com/absolute80s.mp3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Absolute-Radio/Absolute-80s.png"},
-{"name":"Absolute Radio 90s","link":"http://edge-bauerall-01-gos2.sharp-stream.com/absolute90shigh.aac","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Absolute-Radio/Absolute-90s.png"},
-{"name":"Absolute Radio 00s","link":"https://edge-bauerall-01-gos2.sharp-stream.com/absolute00shigh.aac","https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Absolute-Radio/Absolute-00s.png"},
-{"name":"Absolute Radio 10s","link":"http://edge-bauerall-01-gos2.sharp-stream.com/absolute10s.mp3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Absolute-Radio/Absolute-10s.png"},
-{"name":"Absolute Radio 20s","link":"http://edge-bauerall-01-gos2.sharp-stream.com/webcast3high.aac","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Absolute-Radio/Absolute-20s.png"},
-{"name":"CapitalUK","link":"https://icecast.thisisdax.com/CapitalUKMP3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Capital/Capital.png"},
+[{"name":"CapitalUK","link":"https://icecast.thisisdax.com/CapitalUKMP3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Capital/Capital.png"},
 {"name":"CapitalXTRA","link":"https://icecast.thisisdax.com/CapitalXTRANationalMP3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Capital/CapitalXTRA.png"},
 {"name":"CapitalXTRA Reloaded","link":"https://icecast.thisisdax.com/CapitalXTRAReloadedMP3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Capital/CapitalXTRA-Reloaded.png"},
 {"name":"Capital Chill","link":"https://icecast.thisisdax.com/CapitalChillMP3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Capital/Capital-Chill.png"},
@@ -25,7 +17,6 @@
 {"name":"Hits Radio","link":"http://edge-bauerall-01-gos2.sharp-stream.com/hits.mp3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Hits-Radio/Hits-Radio.png"},
 {"name":"Hits Radio Chilled","link":"http://edge-bauerall-01-gos2.sharp-stream.com/magicchilled.mp3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Hits-Radio/Hits-Chilled.png"},
 {"name":"Hits Radio Pride","link":"http://edge-bauerall-01-gos2.sharp-stream.com/hitsradiopride.mp3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Hits-Radio/Hits-Pride.png"},
-{"name":"Magic Radio","link":"http://edge-bauerall-03-gos2.sharp-stream.com/magicnational.mp3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Magic-Radio.png"},
 {"name":"Smooth Radio","link":"https://icecast.thisisdax.com/SmoothUKMP3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Smooth-Radio/Smooth-Radio.png"},
 {"name":"Smooth 70s","link":"https://icecast.thisisdax.com/Smooth70sMP3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Smooth-Radio/Smooth-70s.png"},
 {"name":"Smooth 80s","link":"https://icecast.thisisdax.com/Smooth80sMP3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Smooth-Radio/Smooth-80s.png"},
@@ -33,4 +24,5 @@
 {"name":"Smooth Country","link":"https://icecast.thisisdax.com/SmoothCountryMP3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Smooth-Radio/Smooth-Country.png"},
 {"name":"Smooth Relax","link":"https://icecast.thisisdax.com/SmoothRelaxMP3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Smooth-Radio/Smooth-Relax.png"},
 {"name":"Smooth Soul","link":"https://icecast.thisisdax.com/SmoothSoulMP3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Smooth-Radio/Smooth-Soul.png"},
-{"name":"Virgin Radio","link":"http://radio.virginradio.co.uk/stream","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Virgin-Radio/Virgin-Radio.png"}]
+{"name":"Virgin Radio","link":"http://radio.virginradio.co.uk/stream","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Virgin-Radio/Virgin-Radio.png"}
+]
