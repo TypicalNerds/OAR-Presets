@@ -1,16 +1,6 @@
 [
   {
-    "name": "UK (National)",
-    "description": "Popular radio stations in the UK",
-    "url": "https://raw.githubusercontent.com/TypicalNerds/OAR-Presets/refs/heads/main/uk.json"
-  },
-  {
-    "name": "UK (Tyne & Wear)",
-    "description": "Testing Lists used to avoid breaking standard defaults for normal users",
-    "url": "https://raw.githubusercontent.com/TypicalNerds/OAR-Presets/refs/heads/main/UK%20Regional/uk-tynewear.json"
-  },
-  {
-    "name": "Dev Stations",
+    "name": " UK - Development",
     "description": "Testing Lists used to avoid breaking standard defaults for normal users",
     "url": "https://raw.githubusercontent.com/TypicalNerds/OAR-Presets/refs/heads/main/uk-dev.json"
   }
