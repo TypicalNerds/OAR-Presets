@@ -6,7 +6,7 @@ Most of these stations will be using URLs tailored for UK Audiences, this means 
 These URLs may break or change without warning so don't rely on them as your primary reliance.
 
 # Where do you source these links?
-Many of them are grabbed via online radio streaming sites such as [Radiofeeds](http://www.radiofeeds.co.uk/).
+Radio Stream that are provided here are licensed with permission directly from radio operators, this means not all stations are included.
 
 If any radio operators want their stations removed, please contact me or submit a takedown notice with the name of your company and all associated stations that I can confirm are related to your company will be removed, provided that the notice comes from an organisational email address (not just a generic personal gmail account).
 
