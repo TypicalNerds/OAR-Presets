@@ -1,6 +1,6 @@
 [
   {
-    "name": " UK - Development",
+    "name": "Example Station Config",
     "description": "Testing Lists used to avoid breaking standard defaults for normal users",
     "url": "https://raw.githubusercontent.com/TypicalNerds/OAR-Presets/refs/heads/main/uk-dev.json"
   }
