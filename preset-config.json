@@ -1,7 +1,7 @@
 [
   {
     "name": "Example Station Config",
-    "description": "Testing Lists used to avoid breaking standard defaults for normal users",
-    "url": "https://raw.githubusercontent.com/TypicalNerds/OAR-Presets/refs/heads/main/uk-dev.json"
+    "description": "Example Setup (with invalid stations)",
+    "url": "https://raw.githubusercontent.com/TypicalNerds/OAR-Presets/refs/heads/main/example-config.json"
   }
 ]
