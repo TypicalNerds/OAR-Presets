@@ -1,2 +1,9 @@
-[{"name":"Example","link":"https://example.com/somereallycoollivestream.mp3","imageUrl":"https://example.com/doilooklikeiknowwhatajpegis.png"}
+[
+{"name":"Example 1","link":"https://example.com/coolradio.mp3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Generic-OAR/Generic-Red.png"},
+{"name":"Example 2","link":"https://example.com/coolradio.mp3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Generic-OAR/Generic-Orange.png"},
+{"name":"Example 3","link":"https://example.com/coolradio.mp3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Generic-OAR/Generic-Green.png"},
+{"name":"Example 4","link":"https://example.com/coolradio.mp3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Generic-OAR/Generic-Teal.png"},
+{"name":"Example 5","link":"https://example.com/coolradio.mp3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Generic-OAR/Generic-Blue.png"},
+{"name":"Example 6","link":"https://example.com/coolradio.mp3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Generic-OAR/Generic-Purple.png"},
+{"name":"Example 7","link":"https://example.com/coolradio.mp3","imageUrl":"https://raw.githubusercontent.com/TypicalNerds/LakesideTV-Channel-Logos/refs/heads/main/Radio/Generic-OAR/Generic-Pink.png"}
 ]
