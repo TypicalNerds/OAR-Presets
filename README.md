@@ -13,7 +13,7 @@ If any radio operators want their stations removed, please contact me or submit 
 # How do you get the logos?
 Logos are grabbed from various sources such as google and extracted from webpages of stations, and are then modified to fit a more ideal aspect ratio to improve visiblity.
 
-If you wish, take a look at my [Logos Repo](https://github.com/TypicalNerds/LakesideTV-Channel-Logos) where many of the links in these presets will point to. 
+If you wish, take a look at my [Logos Repo](https://github.com/TypicalNerds/radio-logos) where many of the links in these presets will point to. 
 
 # FAQ for Radio Station Operators
 ## Can you forcefully remove stations from user's devices?
