@@ -19,12 +19,5 @@
     "region": "Tyne & Wear",
     "description": "Licensed Radio Stations for the United Kingdom - Tyne & Wear Region",
     "url": "https://typicalnerds.uk/OAR-Presets/Country-Presets/United-Kingdom/uk-tynewear.json"
-  },
-  {
-    "name": "M3U Test",
-    "country": "United Kingdom",
-    "region": "N/A",
-    "description": "Development M3U Experimentation",
-    "url": "https://typicalnerds.uk/OAR-Presets/development.json"
   }
 ]
