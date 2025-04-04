@@ -14,10 +14,24 @@
     "url": "https://typicalnerds.uk/OAR-Presets/Country-Presets/United-Kingdom/uk-national.json"
   },
   {
+    "name": "UK - East Yorkshire",
+    "country": "United Kingdom",
+    "region": "Tyne & Wear",
+    "description": "Licensed Radio Stations for the United Kingdom - Tyne & Wear Region",
+    "url": "https://typicalnerds.uk/OAR-Presets/Country-Presets/United-Kingdom/uk-yorkshire-east.json"
+  },
+  {
     "name": "UK - Tyne & Wear",
     "country": "United Kingdom",
     "region": "Tyne & Wear",
     "description": "Licensed Radio Stations for the United Kingdom - Tyne & Wear Region",
     "url": "https://typicalnerds.uk/OAR-Presets/Country-Presets/United-Kingdom/uk-tynewear.json"
+  },
+  {
+    "name": "UK - Wales",
+    "country": "United Kingdom",
+    "region": "Wales",
+    "description": "Licensed Radio Stations for the United Kingdom - Wales",
+    "url": "https://typicalnerds.uk/OAR-Presets/Country-Presets/United-Kingdom/uk-wales.json"
   }
 ]
