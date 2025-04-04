@@ -1,16 +1,22 @@
 [
   {
     "name": "Example Station Config",
+    "country": "N/A",
+    "region": "N/A",
     "description": "Example Setup (with invalid stations)",
     "url": "https://typicalnerds.uk/OAR-Presets/example-config.json"
   },
   {
-    "name": "United Kingdom - National",
+    "name": "UK - National",
+    "country": "United Kingdom",
+    "region": "National",
     "description": "Licensed Radio Stations for the United Kingdom",
     "url": "https://typicalnerds.uk/OAR-Presets/Country-Presets/United-Kingdom/uk-national.json"
   },
   {
-    "name": "United Kingdom - Tyne & Wear",
+    "name": "UK - Tyne & Wear",
+    "country": "United Kingdom",
+    "region": "Tyne & Wear",
     "description": "Licensed Radio Stations for the United Kingdom - Tyne & Wear Region",
     "url": "https://typicalnerds.uk/OAR-Presets/Country-Presets/United-Kingdom/uk-tynewear.json"
   }
