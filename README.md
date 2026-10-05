@@ -29,5 +29,4 @@ The best way to approach this is to geo-restrict by IP address and sending users
 One example of a company that does this is Audacy, who use geo-restrictions to restrict their stations to within the United States, attempting to listen outside the USA gives you a piece of audio that tells you the station is not available in your country, alongside instructions on how to resolve the issue if your within the United States.
 
 ## Can I host my own presets?
-At the moment, as of v0.0.7-beta, I don't have a means of adding country selection at the moment, but theoretically, if I did some work to add it, then you absolutely could.
-Please note you would need to create your own presets for the regions you operate in and for your country, from there, ask me to add your configuration url to the config file which is used by the OAR App to locate presets and from there, all you'd be responsible for is keeping the files online, publicly available and up to date.
+At the moment, as of v0.0.7-beta, I don't have a means of adding country selection at the moment or importing stations from a given url, but an option to allow users to enter urls to their own preset packs is planned but no deadline or time estimate for this features availability can be given at this time.
